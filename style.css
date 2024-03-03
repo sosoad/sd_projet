@@ -1,0 +1,101 @@
+.BR{
+    display: flex;
+    justify-content: space-between;
+}
+.HEAD{
+    display: flex;
+    justify-content: space-between;
+}
+.ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    
+}
+.nav-item{
+    list-style-type: none;
+}
+
+.pt-4{
+color: #6489a6;
+
+}
+
+
+.gmi{
+    height: 150px;
+    
+}
+.first{
+    
+    background-image: url("back2.jpg");
+    margin-top: 10px;
+    height: 125vh;
+    border-radius: 5px;
+}
+.per{
+width: 100px;
+
+}
+.card-img{
+      width: 15%;
+    
+}
+.tittle{
+text-decoration-color: rgb(18, 66, 101);
+
+}
+.group{
+    height: 26vh;
+    width: 90%;
+    
+    background-color: rgb(191, 203, 230);
+}
+.vid{
+    width: 500px;
+}
+.logo{
+
+width: 110px;
+
+}
+.personne{
+    width: 80px;
+
+}
+.figure{
+    background-color: rgb(177, 217, 247);
+    height: 300vh;
+    
+}
+.TR{
+    background-color: white;
+   padding: 10px;
+   padding-left: 10px;
+}
+.call{
+    height: 30vh;
+    background-color: rgb(36, 134, 205);
+}
+.tl{
+    color: white;
+}
+.gps{
+    display: flex;
+    justify-content: center;
+}
+.FT{
+    width: 100px;
+}
+.Sec{
+    height: 20vh;
+    background-color: #c8e2f3;
+}
+#btn-top {
+    
+   bottom: 20px;
+   right: 39px;
+   
+   
+   
+}
